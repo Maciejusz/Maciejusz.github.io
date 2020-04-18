@@ -148,8 +148,11 @@ slide:nth-child(4){
     margin: 0 auto;
     position: relative;
 }
+.fizjo p{
+    margin: 20px 20px;
+}
 .fizjo ul{
-    padding-left: 35px;
+    padding-left: 50px;
 }
 .fizjo .box{
     width: 100%;
@@ -181,7 +184,7 @@ slide:nth-child(4){
 }
 .tab1{
     width: 100%;
-    padding: 10px;
+    padding: 10px 120px;
 }
 .tab1 table{
     margin: 0 auto;
@@ -189,6 +192,7 @@ slide:nth-child(4){
 }
 .tab1 td{
     border: none;
+    width: 10%;
 }
 .ustr1{
     font-weight: bold;
