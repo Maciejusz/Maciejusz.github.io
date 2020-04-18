@@ -417,10 +417,10 @@ tr{
 }
 @media screen and (max-width: 400px){
     .fizjo{
-        height: 120vh;
+        height: 110vh;
     }
     .uslugi{
-        height: 115vh;
+        height: 110vh;
     }
     .cennik{
         height: 85vh;
@@ -435,10 +435,10 @@ tr{
         font-size: 14px;
     }
     .ustr1{
-        font-size: 17px;
+        font-size: 14px;
     }
     .ustr2{
-        font-size: 14px;
+        font-size: 12px;
     }
     .banner .content h2{
         font-size: 30px;
